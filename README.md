@@ -30,11 +30,11 @@
 
 # Result
 
-<img src="./ReadmeAsset/light.png">
+<img src="./ReadmeAsset/light.PNG">
 
 light mode 에서의 시연 화면입니다.
 
-<img src="./ReadmeAsset/dark.png">
+<img src="./ReadmeAsset/dark.PNG">
 
 dark mode 에서의 시연 화면입니다.
 
